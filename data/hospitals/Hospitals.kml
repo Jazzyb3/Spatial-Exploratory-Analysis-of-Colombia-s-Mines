@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hospitals</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Centro de Salud Santa Isabel De Hungría</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.63614,6.118464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital Santa Maria</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.5649251,5.8712686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ESE Hospital San Vicente de Paúl Caldas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6344488,6.0869501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HSF ESE Hospital San Fernando</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.703149,6.0422259,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Juan De Dios</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.50371,6.05615,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ESE HOSPITAL SANTA LUCIA</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6878337,5.9343356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro de Salud Santa Isabel De Hungría</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.63614,6.118464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Rafael Hospital Venice</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.7349771,5.9647257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital La Misericordia</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.7089568,6.1103806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital De Caldas sede barrios unidos</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6343493,6.083939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coomeva</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.636913,6.0914472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E.S.E. HOSPITAL SAN ANTONIO</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.5230872,5.9486656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>E.S.E Hospital San Pablo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.8207351,5.8661006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Policlínico Sur S.A - Calidad de Vida</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6343688,6.090106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CEMIS</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6715359,5.9258314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CENTRO DE SALUD DE MINAS HOSPITAL SAN FERNANDO</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6985886,6.0692801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital De Tarso</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.8208243,5.8658827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Consultorio Médico Dr Joaquin Castaño Alzate</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6376562,6.0908403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Promedan IPS Caldas</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.636755,6.0917201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cis Comfama Retiro</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.5029882,6.057919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.635975,6.0882956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>clinica ces</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.5615922,6.1449715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CLÍNICA DEL TRABAJO IPS</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.7046192,6.0404455,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fundacion Ipsi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.4697256,6.0961609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nueva EPS</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.6361312,6.091912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caldas odontox</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.5673896,5.8741725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hospital San Juan de Dios de Titiribí</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -75.79341,6.06259,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
