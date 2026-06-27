@@ -1,0 +1,1691 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	224
+	Class:	225
+	Class:	226
+	Class:	227
+	Class:	228
+	Class:	229
+	Class:	230
+	Class:	231
+	Class:	232
+	Class:	233
+	Class:	234
+	Class:	235
+	Class:	236
+	Class:	237
+	Class:	238
+	Class:	239
+	Class:	240
+	Class:	241
+	Class:	242
+	Class:	243
+	Class:	244
+	Class:	245
+	Class:	246
+	Class:	247
+	Class:	248
+	Class:	249
+	Class:	250
+	Class:	251
+	Class:	252
+	Class:	253
+	Class:	254
+	Class:	255
+	Class:	256
+	Class:	257
+	Class:	258
+	Class:	259
+	Class:	260
+	Class:	261
+	Class:	262
+	Class:	263
+	Class:	264
+	Class:	265
+	Class:	266
+	Class:	267
+	Class:	268
+	StdDevs:	1.00000000000000
+	NullSym:	269
+	NullValues:	273
+	StatValues:	274
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"LITH"
+)
+
+(SymList.4
+	Child:	5
+	Child:	10
+	Child:	15
+	Child:	20
+	Child:	24
+	Child:	29
+	Child:	34
+	Child:	39
+	Child:	44
+	Child:	49
+	Child:	54
+	Child:	59
+	Child:	64
+	Child:	69
+	Child:	74
+	Child:	79
+	Child:	84
+	Child:	88
+	Child:	93
+	Child:	98
+	Child:	103
+	Child:	108
+	Child:	113
+	Child:	118
+	Child:	123
+	Child:	128
+	Child:	133
+	Child:	138
+	Child:	143
+	Child:	148
+	Child:	153
+	Child:	158
+	Child:	163
+	Child:	168
+	Child:	173
+	Child:	178
+	Child:	183
+	Child:	188
+	Child:	193
+	Child:	198
+	Child:	203
+	Child:	207
+	Child:	211
+	Child:	215
+	Child:	220
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+	Stipple:	9
+)
+
+(TClr.6
+	Red:	0xefff
+	Green:	0xb5df
+	Blue:	0xb5df
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Name:	"Transparent"
+)
+
+(Stipple.9
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.10
+	Color:	11
+	Outline:	1
+	OutlineColor:	12
+	OutlineWidth:	0.10000000000000
+	BgColor:	13
+	Stipple:	14
+)
+
+(TClr.11
+	Red:	0xdbff
+	Green:	0xa6b7
+	Blue:	0xa6b7
+)
+
+(TClr.12
+)
+
+(TClr.13
+	Name:	"Transparent"
+)
+
+(Stipple.14
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.15
+	Color:	16
+	Outline:	1
+	OutlineColor:	17
+	OutlineWidth:	0.10000000000000
+	BgColor:	18
+	Stipple:	19
+)
+
+(TClr.16
+	Red:	0xccff
+	Green:	0x9b59
+	Blue:	0x9b59
+)
+
+(TClr.17
+)
+
+(TClr.18
+	Name:	"Transparent"
+)
+
+(Stipple.19
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.20
+	Color:	21
+	Outline:	1
+	OutlineColor:	22
+	OutlineWidth:	0.10000000000000
+	BgColor:	23
+)
+
+(TClr.21
+	Red:	0xb3ff
+	Green:	0x8867
+	Blue:	0x8867
+)
+
+(TClr.22
+)
+
+(TClr.23
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.24
+	Color:	25
+	Outline:	1
+	OutlineColor:	26
+	OutlineWidth:	0.10000000000000
+	BgColor:	27
+	Stipple:	28
+)
+
+(TClr.25
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x6969
+)
+
+(TClr.26
+)
+
+(TClr.27
+	Name:	"Transparent"
+)
+
+(Stipple.28
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+	Stipple:	33
+)
+
+(TClr.30
+	Red:	0xfeff
+	Green:	0xb066
+	Blue:	0x9b63
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Name:	"Transparent"
+)
+
+(Stipple.33
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.34
+	Color:	35
+	Outline:	1
+	OutlineColor:	36
+	OutlineWidth:	0.10000000000000
+	BgColor:	37
+	Stipple:	38
+)
+
+(TClr.35
+	Red:	0xcdcd
+	Green:	0x7070
+	Blue:	0x5454
+)
+
+(TClr.36
+)
+
+(TClr.37
+	Name:	"Transparent"
+)
+
+(Stipple.38
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.39
+	Color:	40
+	Outline:	1
+	OutlineColor:	41
+	OutlineWidth:	0.10000000000000
+	BgColor:	42
+	Stipple:	43
+)
+
+(TClr.40
+	Red:	0x8b8b
+	Green:	0x4c4c
+	Blue:	0x3939
+)
+
+(TClr.41
+)
+
+(TClr.42
+	Name:	"Transparent"
+)
+
+(Stipple.43
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.44
+	Color:	45
+	Outline:	1
+	OutlineColor:	46
+	OutlineWidth:	0.10000000000000
+	BgColor:	47
+	Stipple:	48
+)
+
+(TClr.45
+	Red:	0xffff
+	Green:	0xbbbb
+	Blue:	0xffff
+)
+
+(TClr.46
+)
+
+(TClr.47
+	Name:	"Transparent"
+)
+
+(Stipple.48
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.49
+	Color:	50
+	Outline:	1
+	OutlineColor:	51
+	OutlineWidth:	0.10000000000000
+	BgColor:	52
+	Stipple:	53
+)
+
+(TClr.50
+	Red:	0xcdcd
+	Green:	0x9696
+	Blue:	0xcdcd
+)
+
+(TClr.51
+)
+
+(TClr.52
+	Name:	"Transparent"
+)
+
+(Stipple.53
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.54
+	Color:	55
+	Outline:	1
+	OutlineColor:	56
+	OutlineWidth:	0.10000000000000
+	BgColor:	57
+	Stipple:	58
+)
+
+(TClr.55
+	Red:	0x8b8b
+	Green:	0x6666
+	Blue:	0x8b8b
+)
+
+(TClr.56
+)
+
+(TClr.57
+	Name:	"Transparent"
+)
+
+(Stipple.58
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.59
+	Color:	60
+	Outline:	1
+	OutlineColor:	61
+	OutlineWidth:	0.10000000000000
+	BgColor:	62
+	Stipple:	63
+)
+
+(TClr.60
+	Red:	0xabab
+	Green:	0x8282
+	Blue:	0xffff
+)
+
+(TClr.61
+)
+
+(TClr.62
+	Name:	"Transparent"
+)
+
+(Stipple.63
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.64
+	Color:	65
+	Outline:	1
+	OutlineColor:	66
+	OutlineWidth:	0.10000000000000
+	BgColor:	67
+	Stipple:	68
+)
+
+(TClr.65
+	Red:	0x5c50
+	Green:	0x4720
+	Blue:	0x8aff
+)
+
+(TClr.66
+)
+
+(TClr.67
+	Name:	"Transparent"
+)
+
+(Stipple.68
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.69
+	Color:	70
+	Outline:	1
+	OutlineColor:	71
+	OutlineWidth:	0.10000000000000
+	BgColor:	72
+	Stipple:	73
+)
+
+(TClr.70
+	Red:	0xcaca
+	Green:	0xe1e1
+	Blue:	0xffff
+)
+
+(TClr.71
+)
+
+(TClr.72
+	Name:	"Transparent"
+)
+
+(Stipple.73
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.74
+	Color:	75
+	Outline:	1
+	OutlineColor:	76
+	OutlineWidth:	0.10000000000000
+	BgColor:	77
+	Stipple:	78
+)
+
+(TClr.75
+	Red:	0xa2a2
+	Green:	0xb5b5
+	Blue:	0xcdcd
+)
+
+(TClr.76
+)
+
+(TClr.77
+	Name:	"Transparent"
+)
+
+(Stipple.78
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.79
+	Color:	80
+	Outline:	1
+	OutlineColor:	81
+	OutlineWidth:	0.10000000000000
+	BgColor:	82
+	Stipple:	83
+)
+
+(TClr.80
+	Red:	0x7a7a
+	Green:	0xc5c5
+	Blue:	0xcdcd
+)
+
+(TClr.81
+)
+
+(TClr.82
+	Name:	"Transparent"
+)
+
+(Stipple.83
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.84
+	Color:	85
+	Outline:	1
+	OutlineColor:	86
+	OutlineWidth:	0.10000000000000
+	BgColor:	87
+)
+
+(TClr.85
+	Red:	0x6b93
+	Green:	0xaeec
+	Blue:	0xb3ff
+)
+
+(TClr.86
+)
+
+(TClr.87
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.88
+	Color:	89
+	Outline:	1
+	OutlineColor:	90
+	OutlineWidth:	0.10000000000000
+	BgColor:	91
+	Stipple:	92
+)
+
+(TClr.89
+	Red:	0xfeff
+	Green:	0xfc93
+	Blue:	0x649a
+)
+
+(TClr.90
+)
+
+(TClr.91
+	Name:	"Transparent"
+)
+
+(Stipple.92
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.93
+	Color:	94
+	Outline:	1
+	OutlineColor:	95
+	OutlineWidth:	0.10000000000000
+	BgColor:	96
+	Stipple:	97
+)
+
+(TClr.94
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.95
+)
+
+(TClr.96
+	Name:	"Transparent"
+)
+
+(Stipple.97
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.98
+	Color:	99
+	Outline:	1
+	OutlineColor:	100
+	OutlineWidth:	0.10000000000000
+	BgColor:	101
+	Stipple:	102
+)
+
+(TClr.99
+	Red:	0xffff
+	Green:	0xb9b9
+	Blue:	0xf0f
+)
+
+(TClr.100
+)
+
+(TClr.101
+	Name:	"Transparent"
+)
+
+(Stipple.102
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.103
+	Color:	104
+	Outline:	1
+	OutlineColor:	105
+	OutlineWidth:	0.10000000000000
+	BgColor:	106
+	Stipple:	107
+)
+
+(TClr.104
+	Red:	0x8b8b
+	Green:	0x6565
+	Blue:	0x808
+)
+
+(TClr.105
+)
+
+(TClr.106
+	Name:	"Transparent"
+)
+
+(Stipple.107
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.108
+	Color:	109
+	Outline:	1
+	OutlineColor:	110
+	OutlineWidth:	0.10000000000000
+	BgColor:	111
+	Stipple:	112
+)
+
+(TClr.109
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.110
+)
+
+(TClr.111
+	Name:	"Transparent"
+)
+
+(Stipple.112
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.113
+	Color:	114
+	Outline:	1
+	OutlineColor:	115
+	OutlineWidth:	0.10000000000000
+	BgColor:	116
+	Stipple:	117
+)
+
+(TClr.114
+	Red:	0xcaca
+	Green:	0xffff
+	Blue:	0x7070
+)
+
+(TClr.115
+)
+
+(TClr.116
+	Name:	"Transparent"
+)
+
+(Stipple.117
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.118
+	Color:	119
+	Outline:	1
+	OutlineColor:	120
+	OutlineWidth:	0.10000000000000
+	BgColor:	121
+	Stipple:	122
+)
+
+(TClr.119
+	Red:	0xc0c0
+	Green:	0xffff
+	Blue:	0x3e3e
+)
+
+(TClr.120
+)
+
+(TClr.121
+	Name:	"Transparent"
+)
+
+(Stipple.122
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.123
+	Color:	124
+	Outline:	1
+	OutlineColor:	125
+	OutlineWidth:	0.10000000000000
+	BgColor:	126
+	Stipple:	127
+)
+
+(TClr.124
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x2222
+)
+
+(TClr.125
+)
+
+(TClr.126
+	Name:	"Transparent"
+)
+
+(Stipple.127
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.128
+	Color:	129
+	Outline:	1
+	OutlineColor:	130
+	OutlineWidth:	0.10000000000000
+	BgColor:	131
+	Stipple:	132
+)
+
+(TClr.129
+	Red:	0x6666
+	Green:	0xcdcd
+)
+
+(TClr.130
+)
+
+(TClr.131
+	Name:	"Transparent"
+)
+
+(Stipple.132
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.133
+	Color:	134
+	Outline:	1
+	OutlineColor:	135
+	OutlineWidth:	0.10000000000000
+	BgColor:	136
+	Stipple:	137
+)
+
+(TClr.134
+	Red:	0x4545
+	Green:	0x8b8b
+)
+
+(TClr.135
+)
+
+(TClr.136
+	Name:	"Transparent"
+)
+
+(Stipple.137
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.138
+	Color:	139
+	Outline:	1
+	OutlineColor:	140
+	OutlineWidth:	0.10000000000000
+	BgColor:	141
+	Stipple:	142
+)
+
+(TClr.139
+	Red:	0x5454
+	Green:	0xffff
+	Blue:	0x9f9f
+)
+
+(TClr.140
+)
+
+(TClr.141
+	Name:	"Transparent"
+)
+
+(Stipple.142
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.143
+	Color:	144
+	Outline:	1
+	OutlineColor:	145
+	OutlineWidth:	0.10000000000000
+	BgColor:	146
+	Stipple:	147
+)
+
+(TClr.144
+	Red:	0xc1c1
+	Green:	0xffff
+	Blue:	0xc1c1
+)
+
+(TClr.145
+)
+
+(TClr.146
+	Name:	"Transparent"
+)
+
+(Stipple.147
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.148
+	Color:	149
+	Outline:	1
+	OutlineColor:	150
+	OutlineWidth:	0.10000000000000
+	BgColor:	151
+	Stipple:	152
+)
+
+(TClr.149
+	Red:	0x9b9b
+	Green:	0xcdcd
+	Blue:	0x9b9b
+)
+
+(TClr.150
+)
+
+(TClr.151
+	Name:	"Transparent"
+)
+
+(Stipple.152
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.153
+	Color:	154
+	Outline:	1
+	OutlineColor:	155
+	OutlineWidth:	0.10000000000000
+	BgColor:	156
+	Stipple:	157
+)
+
+(TClr.154
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.155
+)
+
+(TClr.156
+	Name:	"Transparent"
+)
+
+(Stipple.157
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.158
+	Color:	159
+	Outline:	1
+	OutlineColor:	160
+	OutlineWidth:	0.10000000000000
+	BgColor:	161
+	Stipple:	162
+)
+
+(TClr.159
+	Red:	0xffff
+	Green:	0xe7e7
+	Blue:	0xbaba
+)
+
+(TClr.160
+)
+
+(TClr.161
+	Name:	"Transparent"
+)
+
+(Stipple.162
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.163
+	Color:	164
+	Outline:	1
+	OutlineColor:	165
+	OutlineWidth:	0.10000000000000
+	BgColor:	166
+	Stipple:	167
+)
+
+(TClr.164
+	Red:	0xffff
+	Green:	0xd3d3
+	Blue:	0x9b9b
+)
+
+(TClr.165
+)
+
+(TClr.166
+	Name:	"Transparent"
+)
+
+(Stipple.167
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.168
+	Color:	169
+	Outline:	1
+	OutlineColor:	170
+	OutlineWidth:	0.10000000000000
+	BgColor:	171
+	Stipple:	172
+)
+
+(TClr.169
+	Red:	0xcdcd
+	Green:	0xaaaa
+	Blue:	0x7d7d
+)
+
+(TClr.170
+)
+
+(TClr.171
+	Name:	"Transparent"
+)
+
+(Stipple.172
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.173
+	Color:	174
+	Outline:	1
+	OutlineColor:	175
+	OutlineWidth:	0.10000000000000
+	BgColor:	176
+	Stipple:	177
+)
+
+(TClr.174
+	Red:	0x8b8b
+	Green:	0x7373
+	Blue:	0x5555
+)
+
+(TClr.175
+)
+
+(TClr.176
+	Name:	"Transparent"
+)
+
+(Stipple.177
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.178
+	Color:	179
+	Outline:	1
+	OutlineColor:	180
+	OutlineWidth:	0.10000000000000
+	BgColor:	181
+	Stipple:	182
+)
+
+(TClr.179
+	Red:	0xffff
+	Green:	0xf6f6
+	Blue:	0x8f8f
+)
+
+(TClr.180
+)
+
+(TClr.181
+	Name:	"Transparent"
+)
+
+(Stipple.182
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.183
+	Color:	184
+	Outline:	1
+	OutlineColor:	185
+	OutlineWidth:	0.10000000000000
+	BgColor:	186
+	Stipple:	187
+)
+
+(TClr.184
+	Red:	0xeeee
+	Green:	0xdcdc
+	Blue:	0x8282
+)
+
+(TClr.185
+)
+
+(TClr.186
+	Name:	"Transparent"
+)
+
+(Stipple.187
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.188
+	Color:	189
+	Outline:	1
+	OutlineColor:	190
+	OutlineWidth:	0.10000000000000
+	BgColor:	191
+	Stipple:	192
+)
+
+(TClr.189
+	Red:	0xcdcd
+	Green:	0xbebe
+	Blue:	0x7070
+)
+
+(TClr.190
+)
+
+(TClr.191
+	Name:	"Transparent"
+)
+
+(Stipple.192
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.193
+	Color:	194
+	Outline:	1
+	OutlineColor:	195
+	OutlineWidth:	0.10000000000000
+	BgColor:	196
+	Stipple:	197
+)
+
+(TClr.194
+	Red:	0x8b8b
+	Green:	0x8181
+	Blue:	0x4c4c
+)
+
+(TClr.195
+)
+
+(TClr.196
+	Name:	"Transparent"
+)
+
+(Stipple.197
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.198
+	Color:	199
+	Outline:	1
+	OutlineColor:	200
+	OutlineWidth:	0.10000000000000
+	BgColor:	201
+	Stipple:	202
+)
+
+(TClr.199
+	Red:	0xa559
+	Green:	0xfad1
+	Blue:	0xff00
+)
+
+(TClr.200
+)
+
+(TClr.201
+	Name:	"Transparent"
+)
+
+(Stipple.202
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.203
+	Color:	204
+	Outline:	1
+	OutlineColor:	205
+	OutlineWidth:	0.10000000000000
+	BgColor:	206
+)
+
+(TClr.204
+	Red:	0xfbd
+	Green:	0x7cab
+	Blue:	0x8200
+)
+
+(TClr.205
+)
+
+(TClr.206
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.207
+	Color:	208
+	Outline:	1
+	OutlineColor:	209
+	OutlineWidth:	0.10000000000000
+	BgColor:	210
+)
+
+(TClr.208
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.209
+)
+
+(TClr.210
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.211
+	Color:	212
+	Outline:	1
+	OutlineColor:	213
+	OutlineWidth:	0.10000000000000
+	BgColor:	214
+)
+
+(TClr.212
+	Red:	0x4000
+	Green:	0x4000
+	Blue:	0x4000
+)
+
+(TClr.213
+)
+
+(TClr.214
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.215
+	Color:	216
+	Outline:	1
+	OutlineColor:	217
+	OutlineWidth:	0.10000000000000
+	BgColor:	218
+	Stipple:	219
+)
+
+(TClr.216
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.217
+)
+
+(TClr.218
+	Name:	"Transparent"
+)
+
+(Stipple.219
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(BShSym.220
+	Color:	221
+	Outline:	1
+	OutlineColor:	222
+	OutlineWidth:	0.10000000000000
+	BgColor:	223
+)
+
+(TClr.221
+	Name:	"Transparent"
+)
+
+(TClr.222
+	Name:	"Transparent"
+)
+
+(TClr.223
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.224
+	IsText:	1
+	Label:	"Acid igneous rock"
+	MinStr:	"IA"
+	MaxStr:	"IA"
+)
+
+(LClass.225
+	IsText:	1
+	Label:	"Granite"
+	MinStr:	"IA1"
+	MaxStr:	"IA1"
+)
+
+(LClass.226
+	IsText:	1
+	Label:	"Grano-diorite"
+	MinStr:	"IA2"
+	MaxStr:	"IA2"
+)
+
+(LClass.227
+	IsText:	1
+	Label:	"Quartz-diorite"
+	MinStr:	"IA3"
+	MaxStr:	"IA3"
+	Precision:	-3
+)
+
+(LClass.228
+	IsText:	1
+	Label:	"Rhyolite"
+	MinStr:	"IA4"
+	MaxStr:	"IA4"
+)
+
+(LClass.229
+	IsText:	1
+	Label:	"Basic igneous rock"
+	MinStr:	"IB"
+	MaxStr:	"IB"
+)
+
+(LClass.230
+	IsText:	1
+	Label:	"Gabbro"
+	MinStr:	"IB1"
+	MaxStr:	"IB1"
+)
+
+(LClass.231
+	IsText:	1
+	Label:	"Basalt"
+	MinStr:	"IB2"
+	MaxStr:	"IB2"
+)
+
+(LClass.232
+	IsText:	1
+	Label:	"Intermediate igneous rock"
+	MinStr:	"II"
+	MaxStr:	"II"
+)
+
+(LClass.233
+	IsText:	1
+	Label:	"Andesite, trachyte, phonolite"
+	MinStr:	"II1"
+	MaxStr:	"II1"
+)
+
+(LClass.234
+	IsText:	1
+	Label:	"Diorite-syenite"
+	MinStr:	"II2"
+	MaxStr:	"II2"
+)
+
+(LClass.235
+	IsText:	1
+	Label:	"Ultrabasic igneous rock"
+	MinStr:	"IU"
+	MaxStr:	"IU"
+)
+
+(LClass.236
+	IsText:	1
+	Label:	"Ilmenite, magnetite, ironstone, serpentine"
+	MinStr:	"IU3"
+	MaxStr:	"IU3"
+)
+
+(LClass.237
+	IsText:	1
+	Label:	"Acid metamorphic rock"
+	MinStr:	"MA"
+	MaxStr:	"MA"
+)
+
+(LClass.238
+	IsText:	1
+	Label:	"Quartzite"
+	MinStr:	"MA1"
+	MaxStr:	"MA1"
+)
+
+(LClass.239
+	IsText:	1
+	Label:	"Gneiss, migmatite"
+	MinStr:	"MA2"
+	MaxStr:	"MA2"
+)
+
+(LClass.240
+	IsText:	1
+	Label:	"Slate, phyllite"
+	MinStr:	"MA3"
+	MaxStr:	"MA3"
+	Precision:	-3
+)
+
+(LClass.241
+	IsText:	1
+	Label:	"Basic metamorphic rock"
+	MinStr:	"MB"
+	MaxStr:	"MB"
+)
+
+(LClass.242
+	IsText:	1
+	Label:	"Slate, phyllite (peltic rocks)"
+	MinStr:	"MB1"
+	MaxStr:	"MB1"
+)
+
+(LClass.243
+	IsText:	1
+	Label:	"Schist"
+	MinStr:	"MB2"
+	MaxStr:	"MB2"
+)
+
+(LClass.244
+	IsText:	1
+	Label:	"Gneiss rich in ferro-magnesian minerals)"
+	MinStr:	"MB3"
+	MaxStr:	"MB3"
+)
+
+(LClass.245
+	IsText:	1
+	Label:	"Metamorphic limestone (marble)"
+	MinStr:	"MB4"
+	MaxStr:	"MB4"
+)
+
+(LClass.246
+	IsText:	1
+	Label:	"Clastic sedimentary rock"
+	MinStr:	"SC"
+	MaxStr:	"SC"
+)
+
+(LClass.247
+	IsText:	1
+	Label:	"Conglomerate, breccia"
+	MinStr:	"SC1"
+	MaxStr:	"SC1"
+)
+
+(LClass.248
+	IsText:	1
+	Label:	"Sandstone, greywacke, arkose"
+	MinStr:	"SC2"
+	MaxStr:	"SC2"
+)
+
+(LClass.249
+	IsText:	1
+	Label:	"Siltstone, mudstone, claystone"
+	MinStr:	"SC3"
+	MaxStr:	"SC3"
+)
+
+(LClass.250
+	IsText:	1
+	Label:	"Shale"
+	MinStr:	"SC4"
+	MaxStr:	"SC4"
+)
+
+(LClass.251
+	IsText:	1
+	Label:	"Evaporites"
+	MinStr:	"SE"
+	MaxStr:	"SE"
+)
+
+(LClass.252
+	IsText:	1
+	Label:	"Organic sedimentary rock"
+	MinStr:	"SO"
+	MaxStr:	"SO"
+)
+
+(LClass.253
+	IsText:	1
+	Label:	"Limestone, other carbonate rocks"
+	MinStr:	"SO1"
+	MaxStr:	"SO1"
+)
+
+(LClass.254
+	IsText:	1
+	Label:	"Marl and other mixtures"
+	MinStr:	"SO2"
+	MaxStr:	"SO2"
+)
+
+(LClass.255
+	IsText:	1
+	Label:	"Colluvial "
+	MinStr:	"UC"
+	MaxStr:	"UC"
+)
+
+(LClass.256
+	IsText:	1
+	Label:	"Eolean"
+	MinStr:	"UE"
+	MaxStr:	"UE"
+)
+
+(LClass.257
+	IsText:	1
+	Label:	"Fluvial "
+	MinStr:	"UF"
+	MaxStr:	"UF"
+)
+
+(LClass.258
+	IsText:	1
+	Label:	"Glacial"
+	MinStr:	"UG"
+	MaxStr:	"UG"
+)
+
+(LClass.259
+	IsText:	1
+	Label:	"Lacustrine"
+	MinStr:	"UL"
+	MaxStr:	"UL"
+)
+
+(LClass.260
+	IsText:	1
+	Label:	"Marine"
+	MinStr:	"UM"
+	MaxStr:	"UM"
+)
+
+(LClass.261
+	IsText:	1
+	Label:	"Organic "
+	MinStr:	"UO"
+	MaxStr:	"UO"
+)
+
+(LClass.262
+	IsText:	1
+	Label:	"Pyroclastic "
+	MinStr:	"UP"
+	MaxStr:	"UP"
+)
+
+(LClass.263
+	IsText:	1
+	Label:	"Lakes, permanent water"
+	MinStr:	"WR"
+	MaxStr:	"WR"
+)
+
+(LClass.264
+	IsText:	1
+	Label:	"Glaciers, permanent ice"
+	MinStr:	"GC"
+	MaxStr:	"GC"
+	Precision:	-3
+)
+
+(LClass.265
+	IsText:	1
+	Label:	"Urban areas"
+	MinStr:	"UR"
+	MaxStr:	"UR"
+	Precision:	-3
+)
+
+(LClass.266
+	IsText:	1
+	Label:	"Rock outcrop"
+	MinStr:	"RK"
+	MaxStr:	"RK"
+	Precision:	-3
+)
+
+(LClass.267
+	IsText:	1
+	Label:	"No  data"
+	MinStr:	"ND"
+	MaxStr:	"ND"
+)
+
+(LClass.268
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.269
+	Color:	270
+	Outline:	1
+	OutlineColor:	271
+	OutlineWidth:	0.10000000000000
+	BgColor:	272
+)
+
+(TClr.270
+	Name:	"Transparent"
+)
+
+(TClr.271
+	Name:	"Transparent"
+)
+
+(TClr.272
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.273
+)
+
+(NameDict.274
+)
+
